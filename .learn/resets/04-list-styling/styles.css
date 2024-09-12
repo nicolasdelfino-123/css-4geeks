@@ -11,18 +11,4 @@ body {
 	background-color: white;
 	padding: 120px;
 	width: 300px;
-	
-}
-.cocacola{
-	list-style-type: lower-alpha;
-}
-
-.pepsi{
-	list-style-type: square;
-}
-.healthy{
-	list-style-type: armenian;
-}
-.dev-drinks{
-	list-style-type: none;
 }
