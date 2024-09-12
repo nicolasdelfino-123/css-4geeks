@@ -1,1 +1,32 @@
 /* add your styles here */
+body{
+    padding-left: 20px;
+    background-repeat: repeat-y;
+    background-image: url(../../.learn/assets/background-vertical.jpg?raw=true);
+}
+
+a,
+a:hover{
+    color:green;
+    text-decoration: none;
+
+}
+
+html {
+    font-family: 'Times New Roman', Times, serif; /* Para el resto del sitio */
+}
+
+h1 {
+    font-family: Courier; /* Solo para <h1> */
+    color:red;
+}
+
+
+h2{
+    text-decoration: underline;
+}
+#id1{
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 5px;
+}
+
